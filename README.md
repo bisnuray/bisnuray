@@ -19,8 +19,6 @@
 
 - 💬 Ask me about **PHP , MySQL , Python**
 
-- 📫 How to reach me **t.me/bisnuray**
-
 - 📄 Know about my experiences [t.me/bisnuray](t.me/bisnuray)
 
 - ⚡ Fun fact **All**
