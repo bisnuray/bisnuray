@@ -20,6 +20,7 @@
 - 📄 Know about my experiences [t.me/bisnuray](t.me/bisnuray)
 
 - ⚡ Fun fact **All**
+<p align="left"> <img src="dev-working.gif" alt="amaravindmenon"/> </p>
 
 <h3 align="left">Connect with me:</h3>
 
