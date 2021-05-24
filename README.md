@@ -25,12 +25,9 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<p align="left"> <a href="https://twitter.com/aravindmenon12" target="blank"><img src="https://img.shields.io/twitter/follow/aravindmenon12?logo=twitter&style=for-the-badge" alt="aravindmenon12" /></a> </p>
+<p align="left"> <a href="https://twitter.com/BisnuRay3" target="blank"><img src="https://img.shields.io/twitter/follow/aravindmenon12?logo=twitter&style=for-the-badge" alt="BisnuRay3" /></a> </p>
 <p align="left"> <a href="https://www.linkedin.com/in/aravind-menon-00ba0711a/" target="blank"><img align="center" src="https://img.shields.io/badge/LInkedin-Follow-blue?style=for-the-badge&logo=Linkedin" alt="aravind-menon-00ba0711a" /></a> </p>
-<p align="left"> <a href="https://youtube.com/techsoftmedia" target="blank"><img src="https://img.shields.io/youtube/channel/subscribers/UCa_HIEu0txzY_Fmy5Np-MZA?color=silver&logo=YOUTUBE&logoColor=red&style=for-the-badge" alt="aravindmenon12" /></a> </p>
-<p align="left"> <a href="https://dev.to/@amaravindmenon" target="blank"><img align="center" src="https://img.shields.io/badge/DEV.to-Follow-blue?style=for-the-badge&logo=dev.to" alt="amaravindmenon" /></a><!-- https://github.com/amaravindmenon --> </p>
 <p align="left"> <a href="https://www.instagram.com/techsoftmediayt/" target="blank"><img align="center" src="https://img.shields.io/badge/instagram-Follow-red?style=for-the-badge&logo=instagram" alt="techsoftmediayt" /></a> </p>
-<p align="left"> <a href="https://devpost.com/aravind-shinja" target="blank"><img align="center" src="https://img.shields.io/badge/Devpost-Follow-yellowgreen?style=for-the-badge&logo=devpost" alt="devpost" /></a> </p>
 <p align="left"> <a href="https://www.facebook.com/aravind.menon.372" target="blank"><img align="center" src="https://img.shields.io/badge/facebook-follow-blue?style=for-the-badge&logo=facebook" alt="facebook" /></a> </p>
 
 <h3 align="left">Languages and Tools:</h3>
