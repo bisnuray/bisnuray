@@ -1,26 +1,10 @@
 <h1 align="center">Hi 👋, I'm Bisnu Ray</h1>
 <h3 align="center">A passionate Web developer from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bisnuray&label=Profile%20views&color=0e75b6&style=flat" alt="bisnuray" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=bisnuray&label=Profile%20views&color=0e75b6&style=flat" alt="bisnuray" /> </p>
 
-- 🔭 I’m currently working on [Freelancing](Freelancer.com)
 
-- 🌱 I’m currently learning **PHP , MySQL , Python , MongoDB**
-
-- 👯 I’m looking to collaborate on **Web Developer**
-
-- 🤝 I’m looking for help with **Online Legend**
-
-- 👨‍💻 All of my projects are available at [about.me/bisnuray](about.me/bisnuray)
-
-- 📝 I regularly write articles on [TrickBd.com](TrickBd.com)
-
-- 💬 Ask me about **PHP , MySQL , Python**
-
-- 📄 Know about my experiences [t.me/bisnuray](t.me/bisnuray)
-
-- ⚡ Fun fact **All**
-<p align="left"> <img src="dev-working.gif" alt="amaravindmenon"/> </p>
+<p align="center"> <img src="dev-working.gif" alt="amaravindmenon"/> </p>
 
 <h3 align="left">Connect with me:</h3>
 
