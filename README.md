@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bisnuray&label=Profile%20views&color=0e75b6&style=flat" alt="bisnuray" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bisnuray" alt="bisnuray" /></a> </p>
-
 - 🔭 I’m currently working on [Freelancing](Freelancer.com)
 
 - 🌱 I’m currently learning **PHP , MySQL , Python , MongoDB**
@@ -37,3 +35,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bisnuray&show_icons=true&locale=en" alt="bisnuray" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bisnuray&" alt="bisnuray" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bisnuray" alt="bisnuray" /></a> </p>
+
+
