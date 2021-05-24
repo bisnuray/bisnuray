@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bisnu Ray</h1>
-<h3 align="center">A passionate Web developer from Bangladesh</h3>
+<h3 align="center">A passionate Web developer & Web Disigner from Bangladesh</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=bisnuray&label=Profile%20views&color=0e75b6&style=flat" alt="bisnuray" /> </p>
 
