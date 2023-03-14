@@ -8,7 +8,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<p align="left"> <a href="https://www.linkedin.com/in/bisnu-ray-6557b3208/" target="blank"><img align="center" src="https://img.shields.io/badge/LInkedin-Follow-blue?style=for-the-badge&logo=Linkedin" alt="aravind-menon-00ba0711a" /></a> </p>
+
 <p align="left"> <a href="https://www.instagram.com/thesmartbisnu/" target="blank"><img align="center" src="https://img.shields.io/badge/instagram-Follow-red?style=for-the-badge&logo=instagram" alt="techsoftmediayt" /></a> </p>
 <p align="left"> <a href="https://facebook.com/TheSmartBisnu" target="blank"><img align="center" src="https://img.shields.io/badge/facebook-follow-blue?style=for-the-badge&logo=facebook" alt="facebook" /></a> </p>
 
