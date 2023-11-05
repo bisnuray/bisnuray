@@ -8,11 +8,11 @@
     <img src="dev-working.gif" alt="smartdev" width="60%"/>
 </p>
     <div style="background-color: #f8f9fa; padding: 20px; margin: 20px 0; border-radius: 10px;">
-        <h3>About Me:</h3>
+    <h2 style="color: #0e75b6;">👤 About Me</h2>
         <strong>Bisnu Ray, also known as Smart Bisnu, is a successful entrepreneur, programmer, and web developer. He is the CEO and founder of the Premium Network Community. Bisnu Ray was born on September 28, 2003, in Dinajpur, Bangladesh. He has been working as a freelance web developer on the Upwork and Fiverr marketplaces for the last two years.</strong>
     </div>
 <br/>
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">🤝 Connect with me:</h3>
 <p align="center">
     <a href="https://twitter.com/itssmartbisnu" target="blank">
         <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="itssmartbisnu" />
