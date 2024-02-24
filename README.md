@@ -5,7 +5,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=bisnuray&label=Profile%20views&color=0e75b6&style=flat" alt="bisnuray" /> </p>
 
 <p align="center">
-    <img src="dev-working.gif" alt="smartdev" width="60%"/>
+<img src="https://github-stats-alpha.vercel.app/api/?username=bisnuray&cc=000&tc=00ff00&ic=fff000&bc=fff" align="center">
 </p>
 <hr>
     <div style="background-color: #f8f9fa; padding: 20px; margin: 20px 0; border-radius: 10px;">
