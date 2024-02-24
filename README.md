@@ -19,14 +19,14 @@
     <a href="https://twitter.com/itssmartbisnu" target="blank">
         <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="itssmartbisnu" />
     </a>
-    <a href="https://linkedin.com/in/bisnuray" target="blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="bisnuray" />
-    </a>
     <a href="https://fb.com/thesmartbisnu" target="blank">
         <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="thesmartbisnu" />
     </a>
     <a href="https://instagram.com/thesmartbisnu" target="blank">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="thesmartbisnu" />
+    </a>
+    <a href="https://t.me/itsSmartDev" target="blank">
+        <img src="https://img.shields.io/badge/Telegram-0088cc?style=flat-square&logo=telegram&logoColor=white" alt="itsSmartDev" />
     </a>
     <a href="https://www.youtube.com/c/premiumtechguide" target="blank">
         <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="premiumtechguide" />
