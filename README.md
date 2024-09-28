@@ -10,7 +10,7 @@
 <hr>
     <div style="background-color: #f8f9fa; padding: 20px; margin: 20px 0; border-radius: 10px;">
     <h2 style="color: #0e75b6;">👤 About Me</h2>
-        <strong>I'm Bisnu Ray, aka Smart Bisnu! I'm an entrepreneur, programmer, and web developer. As the CEO and founder of Premium Network Community, I lead innovative web projects. I freelance on Upwork and Fiverr and have authored books on web development, programming, and freelancing.</strong>
+        <strong>I'm Bisnu Ray, aka Smart Bisnu! I'm an entrepreneur, programmer, and web developer. As the CEO and founder of Premium Network Community, I lead innovative web projects. I freelance on Upwork and Fiverr, bringing clients' visions to life.</strong>
     </div>
 <br/>
 <hr>
