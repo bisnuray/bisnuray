@@ -1,8 +1,14 @@
 <div align="center">
-    <h1>Hi 👋, I'm Smart Bisnu</h1>
-    <h2>A Successful Entrepreneur, Programmer, and Web Developer</h2>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=7000&pause=1000&color=00FF2B&center=true&vCenter=true&repeat=false&random=false&width=1000&lines=Hi+👋,+I'm+Bisnu+Ray" alt="Hi 👋, I'm Bisnu Ray"/>
+</a>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=bisnuray&label=Profile%20views&color=0e75b6&style=flat" alt="bisnuray" /> </p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=7000&pause=1000&color=00FF2B&center=true&vCenter=true&repeat=false&random=false&width=1000&lines=A+Successful+Entrepreneur,+Programmer,+and+Web+Developer" alt="A Successful Entrepreneur, Programmer, and Web Developer"/>
+</a>
+
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=bisnuray&label=Profile%20views&color=00a400&style=flat" alt="bisnuray" /> </p>
 
 <p align="center">
 <img src="https://github-stats-alpha.vercel.app/api/?username=bisnuray&cc=000&tc=00ff00&ic=fff000&bc=fff" align="center">
@@ -57,6 +63,8 @@
 
 <div align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=bisnuray&theme=onedark" alt="bisnuray" />
+        <img src="https://github-profile-trophy.vercel.app/?username=bisnuray&theme=matrix" alt="bisnuray" />
     </a>
 </div>
+
+[![Bisnu's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bisnuray&theme=github-compact&bg_color=000000&line=009A22&point=98FB98&color=00FF2B&title_color=00FF2B&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
