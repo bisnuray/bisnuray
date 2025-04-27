@@ -1,11 +1,7 @@
 <div align="center">
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=45&duration=7000&pause=1000&color=00FF2B&center=true&vCenter=true&repeat=false&random=false&width=1000&lines=Hi+👋,+I'm+Bisnu+Ray" alt="Hi 👋, I'm Bisnu Ray"/>
-</a>
+<h1>Hi 👋, I'm Bisnu Ray</h1>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=7000&pause=1000&color=00FF2B&center=true&vCenter=true&repeat=false&random=false&width=1000&lines=Entrepreneur,+Programmer,+and+Web+Developer" alt="A Successful Entrepreneur, Programmer, and Web Developer"/>
-</a>
+<h2>Entrepreneur, Programmer, and Web Developer</h2>
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=bisnuray&label=Profile%20views&color=00a400&style=flat" alt="bisnuray" /> </p>
