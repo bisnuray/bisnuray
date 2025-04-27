@@ -1,10 +1,10 @@
 <div align="center">
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=7000&pause=1000&color=00FF2B&center=true&vCenter=true&repeat=false&random=false&width=1000&lines=Hi+👋,+I'm+Bisnu+Ray" alt="Hi 👋, I'm Bisnu Ray"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=45&duration=7000&pause=1000&color=00FF2B&center=true&vCenter=true&repeat=false&random=false&width=1000&lines=Hi+👋,+I'm+Bisnu+Ray" alt="Hi 👋, I'm Bisnu Ray"/>
 </a>
-<hr>
+
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=7000&pause=1000&color=00FF2B&center=true&vCenter=true&repeat=false&random=false&width=1000&lines=A+Successful+Entrepreneur,+Programmer,+and+Web+Developer" alt="A Successful Entrepreneur, Programmer, and Web Developer"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=7000&pause=1000&color=00FF2B&center=true&vCenter=true&repeat=false&random=false&width=1000&lines=Entrepreneur,+Programmer,+and+Web+Developer" alt="A Successful Entrepreneur, Programmer, and Web Developer"/>
 </a>
 
 
